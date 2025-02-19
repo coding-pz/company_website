@@ -6,16 +6,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src'),
-      '@assets': path.resolve(__dirname, './src/assets')
-    }
-  },
-  build: {
-    assetsInlineLimit: 4096,
-    rollupOptions: {
-      output: {
-        assetFileNames: 'assets/[name].[hash][extname]'
-      }
+      '@': path.resolve(__dirname, './src')
     }
   }
 });
