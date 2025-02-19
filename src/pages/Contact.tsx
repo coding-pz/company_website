@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import BaiduMap from '../components/BaiduMap';
 
 // 引入地图类型
 declare global {
