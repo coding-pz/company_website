@@ -33,7 +33,7 @@ const BaiduMap: React.FC<BaiduMapProps> = ({ center, zoom = 15, className = '' }
         map.addOverlay(marker);
 
         // 添加信息窗口
-        const infoWindow = new window.BMapGL.InfoWindow("智创科技", {
+        const infoWindow = new window.BMapGL.InfoWindow("易准软件", {
           width: 200,
           height: 100,
           title: "公司地址"

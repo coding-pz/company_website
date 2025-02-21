@@ -6,7 +6,7 @@ const milestones = [
   {
     year: 2018,
     title: "公司成立",
-    description: "智创科技在北京成立，开始为企业提供软件开发服务"
+    description: "易准软件在北京成立，开始为企业提供软件开发服务"
   },
   {
     year: 2019,

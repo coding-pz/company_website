@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* 公司信息 */}
           <div className="col-span-1">
-            <h3 className="text-white text-lg font-bold mb-4">智创科技</h3>
+            <h3 className="text-white text-lg font-bold mb-4">易准软件</h3>
             <p className="text-sm">
               专注于提供高质量的软件开发解决方案，
               致力于帮助企业实现数字化转型。
@@ -47,7 +47,7 @@ const Footer = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t border-gray-800 text-sm text-center">
-          <p>© 2023 智创科技. All rights reserved.</p>
+          <p>© 2023 易准软件. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -19,12 +19,12 @@ interface NewsArticle {
 const fullNewsList: NewsArticle[] = [
   {
     id: 1,
-    title: "智创科技完成新一轮融资",
+    title: "易准软件完成新一轮融资",
     category: "公司动态",
     date: "2023-11-01",
     image: imageUrls.news.funding,
-    summary: "智创科技宣布完成A轮融资，将进一步加大研发投入，提升产品竞争力。",
-    content: `智创科技于近日宣布完成新一轮融资。本轮融资由某知名投资机构领投，
+    summary: "易准软件宣布完成A轮融资，将进一步加大研发投入，提升产品竞争力。",
+    content: `易准软件于近日宣布完成新一轮融资。本轮融资由某知名投资机构领投，
     将主要用于产品研发和市场拓展。公司CEO表示，此次融资将助力公司在人工智能和
     云计算领域的技术创新，进一步提升产品竞争力...`,
     author: "张明",
