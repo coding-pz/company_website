@@ -15,7 +15,7 @@ const milestones = [
   },
   {
     year: 2020,
-    title: "规模扩张",
+    title: "规模扩",
     description: "团队扩展到50人，成功服务超过100家企业客户"
   },
   {
