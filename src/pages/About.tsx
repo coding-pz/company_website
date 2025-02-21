@@ -50,25 +50,25 @@ const coreValues = [
 
 const teamMembers = [
   {
-    name: "张志远",
+    name: "徐犇",
     position: "首席执行官",
     avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop",
     description: "拥有15年软件行业经验，曾任职多家知名科技公司"
   },
   {
-    name: "李明",
+    name: "徐犇",
     position: "技术总监",
     avatar: "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=150&h=150&fit=crop",
     description: "专注于企业级应用架构设计，微服务专家"
   },
   {
-    name: "王悦",
+    name: "徐犇",
     position: "产品总监",
     avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop",
     description: "10年产品设计经验，擅长用户体验优化"
   },
   {
-    name: "刘海",
+    name: "徐犇",
     position: "研发经理",
     avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop",
     description: "全栈开发专家，区块链技术研究者"

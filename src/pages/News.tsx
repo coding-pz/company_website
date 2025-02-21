@@ -27,7 +27,7 @@ const fullNewsList: NewsArticle[] = [
     content: `易准软件于近日宣布完成新一轮融资。本轮融资由某知名投资机构领投，
     将主要用于产品研发和市场拓展。公司CEO表示，此次融资将助力公司在人工智能和
     云计算领域的技术创新，进一步提升产品竞争力...`,
-    author: "张明",
+    author: "徐犇",
     readTime: "3分钟",
     tags: ["融资", "发展", "AI", "云计算"],
     relatedArticles: [2, 4]
