@@ -71,7 +71,7 @@ const NewsPage = () => {
             transition={{ delay: 0.2 }}
             className="text-xl text-center max-w-3xl mx-auto"
           >
-            了解智创科技的最新动态和行业资讯
+             了解易准软件的最新动态和行业资讯
           </motion.p>
         </div>
       </div>
